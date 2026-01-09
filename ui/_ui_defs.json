@@ -1,0 +1,6 @@
+{
+  "ui_defs": [
+    "new_ui/start.json",
+    "new_ui/animations.json"
+  ]
+}
