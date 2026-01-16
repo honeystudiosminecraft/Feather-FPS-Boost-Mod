@@ -3,16 +3,16 @@
   "header": {
     "name": "§bFeather FPS Boost Mod V1 §7",
     "description": "§eA refined performance optimization pack designed by §bFoxyFall§e. §aExperience smoother frames, reduced lag, and ultra-light visuals — inspired by Feather Client for Minecraft Bedrock Edition.\n§fOptimized for both low-end and high-end devices.",
-    "uuid": "5089c268-df07-4236-9440-fd9893843c7f",
-    "version": [1, 3, 0],
+    "uuid": "9ce5b318-b10e-43b5-bed7-ecc8ce9fd5ef",
+    "version": [1, 4, 0],
     "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
       "description": "§bFeather FPS Boost Mod §7– Core Optimization Module",
       "type": "resources",
-      "uuid": "5a59ad09-a9e7-40a7-ba2c-9a9e03c97fde",
-      "version": [1, 3, 0]
+      "uuid": "00a87fa0-291a-4dcd-92dc-ae2c46d22639",
+      "version": [1, 4, 0]
     }
   ],
   "metadata": {
